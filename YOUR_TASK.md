@@ -28,6 +28,6 @@ o  x  o
 x  o  x
 ```
 
-When you are sure that you've followed the instructions _perfectly_, ask Mr. Brash to check your work.
+When you are sure that you've followed the instructions _perfectly_, ask Mr. J to check your work.
 
 🕒 If you finish with class time left, you can complete [the ISU](https://classroom.google.com)
