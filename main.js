@@ -9,3 +9,4 @@
 // Feel free to delete this line when starting the task
 console.log("Hello world!")
 2+2
+console.log("this is a test")
